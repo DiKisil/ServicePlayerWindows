@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="updateInterval">
+        <item name="1">Каждый 1 час</item>
+        <item name="30">Каждые 30 минут</item>
+        <item name="15">Каждые 15 минут</item>
+    </string-array>
+    <string-array name="updateIntervalValues">
+        <item name="1">1</item>
+        <item name="30">30</item>
+        <item name="15">15</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="Version">Music Mall CE</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Music Mall</string>
+    <string name="connection">Connection to server</string>
+    <string name="delete_adv">Delete adv file:</string>
+    <string name="delete_folder_music">Delete music folder:</string>
+    <string name="delete_music">Delete music file:</string>
+    <string name="delete_start">Delete "start" music file:</string>
+    <string name="dialogTitle_1">Enter object number</string>
+    <string name="dialogTitle_1_name">Enter object name</string>
+    <string name="dialogTitle_2">Enter time </string>
+    <string name="dialogTitle_4">Enter server</string>
+    <string name="dialogTitle_5">Enter name</string>
+    <string name="dialogTitle_6">Enter password from the server</string>
+    <string name="download">Download config</string>
+    <string name="download_adv">Download adv file:</string>
+    <string name="download_img">Download img file:</string>
+    <string name="download_music">Download music file:</string>
+    <string name="download_start">Download "start" music file:</string>
+    <string name="error">Error play</string>
+    <string name="exit">Exit</string>
+    <string name="exit2">Are you sure ?</string>
+    <string name="ftp_conn">FTP connection</string>
+    <string name="generation">Generation playlist</string>
+    <string name="generation_play">Generation playlist,click play</string>
+    <string name="noo">No</string>
+    <string name="play">Start player</string>
+    <string name="play_list">Playlist</string>
+    <string name="pref_ftp">Server</string>
+    <string name="pref_id">Name</string>
+    <string name="pref_object">Number object</string>
+    <string name="pref_object_name">Name object</string>
+    <string name="pref_password">Password</string>
+    <string name="pref_refresh">Update</string>
+    <string name="pref_way">/mnt/sdcard/</string>
+    <string name="settings">Settings</string>
+    <string name="size_adv"> | Size: </string>
+    <string name="size_music"> | Size: </string>
+    <string name="start_application">Player Music Mall started</string>
+    <string name="stop">Stop player</string>
+    <string name="stop_application">Stop application</string>
+    <string name="summary_1">Sets object number</string>
+    <string name="summary_1_name">Sets object name</string>
+    <string name="summary_2">Sets time update object from server</string>
+    <string name="summary_3">Once a day</string>
+    <string name="summary_4">Sets new server</string>
+    <string name="summary_5">Sets new name from the servet</string>
+    <string name="summary_6">Sets new password</string>
+    <string name="title_1">Object number</string>
+    <string name="title_1_name">Object name</string>
+    <string name="title_2">Time update from the server</string>
+    <string name="title_3">Update content music from the server</string>
+    <string name="title_4">Address server</string>
+    <string name="title_5">Name</string>
+    <string name="title_6">Password</string>
+    <string name="title_o">Object settings</string>
+    <string name="title_s">Server settings</string>
+    <string name="upload">Upload to server</string>
+    <string name="yess">Yes</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

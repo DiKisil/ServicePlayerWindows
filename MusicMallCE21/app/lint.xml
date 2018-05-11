@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="InlinedApi">
+        <ignore path="src/ua/example/player/AndroidBuildingMusicPlayerActivity.java" />
+    </issue>
+    <issue id="SdCardPath" severity="ignore">
+        <ignore path="src/ua/example/player/Constants.java" />
+    </issue>
+    <issue id="SimpleDateFormat" severity="ignore" />
+</lint>

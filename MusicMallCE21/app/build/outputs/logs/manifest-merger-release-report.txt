@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lenovo U310\.android\build-cache\0cd4f688052bba50ef01e6f6d84358b44b47c018\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lenovo U310\.android\build-cache\335296c2fe0285aa8fd3772d391b0d4625ce2261\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lenovo U310\.android\build-cache\9e3a35144aaf2440b7447d1263dbb3b05cd2b732\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lenovo U310\.android\build-cache\9f33fd5eea96dac72a49420f4271935d026b8647\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lenovo U310\.android\build-cache\a8a190e3ea98910abb0a04fc7f1627f3fa354b96\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lenovo U310\.android\build-cache\0e742fa0100e4ce926c297ebc84c4cbe24e08d1e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer:r1.4.1] C:\Users\Lenovo U310\.android\build-cache\323e06d71148f1ff503f4fc4778db59bb0b4ef3d\output\AndroidManifest.xml:24:5-26:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Lenovo U310\.android\build-cache\0cd4f688052bba50ef01e6f6d84358b44b47c018\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:12:6-67
+MERGED from [com.google.android.exoplayer:exoplayer:r1.4.1] C:\Users\Lenovo U310\.android\build-cache\323e06d71148f1ff503f4fc4778db59bb0b4ef3d\output\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:12:23-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.exoplayer:exoplayer:r1.4.1] C:\Users\Lenovo U310\.android\build-cache\323e06d71148f1ff503f4fc4778db59bb0b4ef3d\output\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:15:5-80
+MERGED from [com.google.android.exoplayer:exoplayer:r1.4.1] C:\Users\Lenovo U310\.android\build-cache\323e06d71148f1ff503f4fc4778db59bb0b4ef3d\output\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:21:22-70
+application
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:24:5-45:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lenovo U310\.android\build-cache\0cd4f688052bba50ef01e6f6d84358b44b47c018\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lenovo U310\.android\build-cache\335296c2fe0285aa8fd3772d391b0d4625ce2261\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lenovo U310\.android\build-cache\9e3a35144aaf2440b7447d1263dbb3b05cd2b732\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lenovo U310\.android\build-cache\9f33fd5eea96dac72a49420f4271935d026b8647\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lenovo U310\.android\build-cache\a8a190e3ea98910abb0a04fc7f1627f3fa354b96\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lenovo U310\.android\build-cache\0e742fa0100e4ce926c297ebc84c4cbe24e08d1e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:28:9-40
+receiver#ua.example.player.AlarmReceiver
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:33:9-68
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:33:19-65
+activity#ua.example.player.AndroidBuildingMusicPlayerActivity
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:34:9-43:20
+	android:label
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:35:13-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:41:27-74
+activity#ua.example.settings.Setting
+ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:44:9-73
+	android:name
+		ADDED from D:\MusicMallCE21\app\src\main\AndroidManifest.xml:44:19-61
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Lenovo U310\.android\build-cache\0cd4f688052bba50ef01e6f6d84358b44b47c018\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lenovo U310\.android\build-cache\335296c2fe0285aa8fd3772d391b0d4625ce2261\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lenovo U310\.android\build-cache\9e3a35144aaf2440b7447d1263dbb3b05cd2b732\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lenovo U310\.android\build-cache\9f33fd5eea96dac72a49420f4271935d026b8647\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lenovo U310\.android\build-cache\a8a190e3ea98910abb0a04fc7f1627f3fa354b96\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lenovo U310\.android\build-cache\0e742fa0100e4ce926c297ebc84c4cbe24e08d1e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Lenovo U310\.android\build-cache\0cd4f688052bba50ef01e6f6d84358b44b47c018\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Lenovo U310\.android\build-cache\0cd4f688052bba50ef01e6f6d84358b44b47c018\output\AndroidManifest.xml:26:9-47

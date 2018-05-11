@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_right.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-mdpi\\ic_right.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_pause.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-mdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\baner.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-mdpi\\baner.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_play.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-mdpi\\ic_play.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_left.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-mdpi\\ic_left.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_left.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-xhdpi\\ic_left.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_pause.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-xhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_play.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-xhdpi\\ic_play.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\baner.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-xhdpi\\baner.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_right.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-xhdpi\\ic_right.png"
+    }
+]

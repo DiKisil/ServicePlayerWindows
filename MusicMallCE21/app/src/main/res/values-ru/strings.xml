@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music Mall</string>
+    <string name="action_settings">Настройки</string>
+    <string name="yess">Да</string>
+	<string name="noo">Нет</string>
+	<string name="exit">Выход</string>
+	<string name="exit2">Вы действительно хотите выйти?</string>
+	
+	<string name="pref_ftp">Сервер</string> 
+	<string name="pref_id">Имя</string>
+	<string name="pref_password">Пароль</string>
+	<string name="pref_object">Номер объекта</string>
+	<string name="pref_object_name">Имя объекта</string>
+	<string name="pref_refresh">Обновление</string>
+	<string name="pref_way">/mnt/sdcard/</string>
+
+
+
+	<string-array name="updateInterval">
+        <item name="1">Каждый 1 час</item>
+        <item name="30">Каждые 30 минут</item>
+        <item name="15">Каждые 15 минут</item>
+    </string-array>
+
+    <string-array name="updateIntervalValues">
+        <item name="1">1</item>
+        <item name="30">30</item>
+        <item name="15">15</item>
+    </string-array>
+    
+    
+     <string name="error">Error play</string>
+	<string name="generation_play">Generation playlist,click play</string>
+    <string name="generation">Generation playlist</string>
+    <string name="play">Start player</string>
+    <string name="stop">Stop player</string>
+    <string name="upload">Upload to server</string>
+    <string name="download">Download config</string>
+    <string name="connection">Connection to server</string> 
+    
+    <string name="download_adv">Download adv file:</string>    
+    <string name="delete_adv">Delete adv file:</string>
+    <string name="download_music">Download music file:</string>
+    <string name="delete_folder_music">Delete music folder:</string>   
+    <string name="delete_music">Delete music file:</string>
+     <string name="download_img">Download img file:</string>    
+     <string name="download_start">Download "start" music file:</string>    
+    <string name="delete_start">Delete "start" music file:</string>
+    
+     <string name="start_application">Player Music Mall started</string>
+	<string name="stop_application">Stop application</string>
+     <string name="size_music"> | Size: </string>
+    <string name="size_adv"> | Size: </string>
+    
+	<string name="settings">Настройки</string>
+    <string name="play_list">Плей-лист</string>
+    <string name="ftp_conn">ФТП связь</string>
+    
+    <!-- Настройки ,перевод -->
+     <string name="title_o">Настройки объекта</string> 
+     <string name="title_s">Настройки cервера</string>
+     
+    <string name="title_1">Номер объетка</string>
+    <string name="summary_1">Устанавливает номер обьекта</string>
+    <string name="dialogTitle_1">Введите номер обьекта</string>
+    
+     <string name="title_1_name">Имя объетка</string>
+    <string name="summary_1_name">Устанавливает имя обьекта</string>
+    <string name="dialogTitle_1_name">Введите имя обьекта</string>
+    
+    <string name="title_2">Время обновления с сервером</string>
+    <string name="summary_2">Устанавливает время обновления обьекта с сервером</string>
+    <string name="dialogTitle_2">Выберите время обновления</string>
+    
+    <string name="title_3">Обновление музыки с сервера</string>
+    <string name="summary_3">Раз в сутки</string>
+    
+    <string name="title_4">Адрес ftp сервера</string>
+    <string name="summary_4">Устанавливает новый сервер</string>
+    <string name="dialogTitle_4">Введите сервер</string>
+    
+    <string name="title_5">Имя</string>
+    <string name="summary_5">Устанавливает новое имя</string>
+    <string name="dialogTitle_5">Введите имя пользователя</string>
+    
+     <string name="title_6">Пароль</string>
+    <string name="summary_6">Устанавливает новый пароль</string>
+    <string name="dialogTitle_6">Введите пароль пользователя</string>
+    
+     <string name="title_way">Путь к SD карте</string>
+    <string name="dialogTitle_way">Введите путь к карте</string>
+	
+
+</resources>

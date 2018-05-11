@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\layout\\playlist_item.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\layout\\playlist_item.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\layout\\player.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\layout\\playlist.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\layout\\playlist.xml"
+    }
+]

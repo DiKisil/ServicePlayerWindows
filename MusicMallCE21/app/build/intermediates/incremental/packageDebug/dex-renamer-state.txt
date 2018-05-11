@@ -1,0 +1,7 @@
+#Wed May 09 20:34:06 EEST 2018
+base.0=D\:\\MusicMallCE21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ccfd9fea95929589011efefed1cfd98ed8ddf2ff
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\MusicMallCE21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e7655d972d1cb3c5f3bee877d00f8e2017a44c9\\classes.dex
+base.1=D\:\\MusicMallCE21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e7655d972d1cb3c5f3bee877d00f8e2017a44c9
+file.0=D\:\\MusicMallCE21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ccfd9fea95929589011efefed1cfd98ed8ddf2ff\\classes.dex

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8E8E8"
+    tools:ignore="HardcodedText,DuplicateIds,ContentDescription,SpUsage" >
+
+    <LinearLayout
+        android:id="@+id/Info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:background="#E8E8E8" >
+
+        <TextView
+            android:id="@+id/version"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:text="@string/Version"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ababab" />
+
+        <TextView
+            android:id="@+id/object"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#E8E8E8"
+            android:gravity="right"
+            android:text="Object"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ababab" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/status"
+        android:background="#E8E8E8"
+        android:gravity="center" >
+
+        <DigitalClock
+            android:id="@+id/digitalClock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DigitalClock"
+            android:textColor="#ababab"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Info"
+        android:layout_marginLeft="2dp"
+        android:background="#E8E8E8" >
+
+        <TextView
+            android:id="@+id/Status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Log info"
+            android:textColor="#ababab" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/player_header_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/relativeLayout1"
+        android:background="#E8E8E8"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp" >
+
+
+        <TextView
+            android:id="@+id/songTitle"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#E8E8E8"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:text="Music Mall"
+            android:textColor="#FF8C00"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/timerDisplay"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/player_header_bg"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp" >
+
+        <TextView
+            android:id="@+id/songCurrentDurationLabel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#E8E8E8"
+            android:gravity="left"
+            android:textColor="#ababab"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/songTotalDurationLabel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#E8E8E8"
+            android:gravity="right"
+            android:textColor="#ababab"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <SeekBar
+        android:id="@+id/songProgressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/timerDisplay"
+        android:background="#E8E8E8"
+        android:maxHeight="10dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:progressDrawable="@drawable/progress"
+        android:thumb="@drawable/seek_handler" />
+
+    <LinearLayout
+        android:id="@+id/player_footer_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/songProgressBar"
+        android:background="#E8E8E8"
+        android:gravity="center"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:id="@+id/player_footer_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="42dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            tools:ignore="UselessParent"
+            android:weightSum="1">
+
+            <ImageButton
+                android:id="@+id/sett"
+                android:layout_width="41dp"
+                android:layout_height="41dp"
+                android:background="@null"
+                android:src="@drawable/ic_menu" />
+
+            <TextView
+                android:id="@+id/songTitle"
+                android:layout_width="10dp"
+                android:layout_height="41dp"
+                android:layout_weight="1"
+                android:background="#E8E8E8"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                />
+
+            <ImageButton
+                android:id="@+id/save"
+                android:layout_width="41dp"
+                android:layout_height="41dp"
+                android:background="@drawable/btn_rounded"
+                android:src="@android:drawable/ic_menu_save" />
+
+            <TextView
+                android:id="@+id/songTitle"
+                android:layout_width="10dp"
+                android:layout_height="41dp"
+                android:layout_weight="1"
+                android:background="#E8E8E8"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                />
+
+
+            <ImageButton
+                android:id="@+id/btnPlay"
+                android:layout_width="41dp"
+                android:layout_height="41dp"
+                android:background="@drawable/btn_rounded"
+                android:src="@drawable/ic_play" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:divider="#ababab"
+        android:dividerHeight="1dp"
+        android:layout_below="@+id/player_footer_bg">
+
+    </ListView>
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:background="@drawable/baner" >
+
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory
+		android:title="@string/title_o">
+
+		<EditTextPreference
+			android:key="@string/pref_object"
+			android:inputType="phone"
+			android:title="@string/title_1"
+			android:summary="@string/summary_1"
+			android:defaultValue="0"
+			android:dialogTitle="@string/dialogTitle_1" />
+		<EditTextPreference
+			android:key="@string/pref_object_name"
+			android:inputType="text"
+			android:title="@string/title_1_name"
+			android:summary="@string/summary_1_name"
+			android:defaultValue=""
+			android:dialogTitle="@string/dialogTitle_1_name" />
+		<Preference android:key="@string/pref_way" android:title="Выбор карты памяти" android:summary="Укажите карту памяти"/>
+
+		
+	</PreferenceCategory>
+	<PreferenceCategory
+		android:title="@string/title_s">
+
+		<EditTextPreference
+			android:key="@string/pref_ftp"
+			android:title="@string/title_4"
+			android:summary="@string/summary_4"
+			android:inputType="phone"
+			android:defaultValue="musicmall.com.ua"
+			android:dialogTitle="@string/dialogTitle_4" />
+		<EditTextPreference
+			android:key="@string/pref_id"
+			android:title="@string/title_5"
+			android:summary="@string/summary_5"
+			android:defaultValue="mm_ce"
+			android:inputType="text"
+			android:dialogTitle="@string/dialogTitle_5" />
+		<EditTextPreference
+			android:key="@string/pref_password"
+			android:title="@string/title_6"
+			android:summary="@string/summary_6"
+			android:defaultValue="mm_ce2013"
+			android:inputType="textPassword"
+			android:dialogTitle="@string/dialogTitle_6" />
+	</PreferenceCategory>
+	
+</PreferenceScreen>

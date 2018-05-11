@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\img_btn_next_pressed.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\img_btn_next_pressed.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\img_btn_previous.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\img_btn_previous.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\baner.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\baner.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\img_btn_previous_pressed.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\img_btn_previous_pressed.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_left.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\ic_left.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\img_btn_pause_pressed.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\img_btn_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\img_btn_next.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\img_btn_next.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\img_btn_play_pressed.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\img_btn_play_pressed.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\seek_handler.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\seek_handler.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_right.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\ic_right.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\img_btn_play.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\img_btn_play.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_pause.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\img_btn_pause.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\img_btn_pause.png"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_play.png",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable-hdpi\\ic_play.png"
+    }
+]

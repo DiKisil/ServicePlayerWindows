@@ -1,0 +1,4 @@
+#Wed Mar 07 23:10:22 EET 2018
+base.0=D\:\\MusicMallCE21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=D\:\\MusicMallCE21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_previous.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable\\btn_previous.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_fill.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable\\background_fill.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_pause.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_fill.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable\\progress_fill.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_play.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_next.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable\\btn_next.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_background_fill.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable\\progress_background_fill.xml"
+    },
+    {
+        "merged": "D:\\MusicMallCE21\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_rounded.xml",
+        "source": "D:\\MusicMallCE21\\app\\src\\main\\res\\drawable\\btn_rounded.xml"
+    }
+]

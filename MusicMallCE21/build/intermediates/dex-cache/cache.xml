@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\MusicMallCE21\app\libs\jaudiotagger-2.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="12b739d4bc8326bb4c337272240bf35d28fc4cb0">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\2\jaudiotagger-2.0.4_a64c7ce866d63d63eca3462b80ef0b88c401afae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicMallCE21\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6446ec775e4c0c1b53c81684eed0025959ab6666">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0e7655d972d1cb3c5f3bee877d00f8e2017a44c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicMallCE21\app\libs\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-io-2.4_9d22d833367cd0322923bdbcb43ab327274ed30a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicMallCE21\app\libs\jackson-mapper-asl-1.9.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-mapper-asl-1.9.13_471a6123add31a3d5b2061fd358f965d80b42f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicMallCE21\app\libs\ftp4j-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="abd6a2ba75b142926052c4538611efda49e0b0e2">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\2\ftp4j-1.7.2_9e165f3d89480fe174bfb2f4591880cf94a0ef20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo U310\.android\build-cache\9f33fd5eea96dac72a49420f4271935d026b8647\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_715c66b2e4397e8d7a10ee9174f3222b98738d31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicMallCE21\app\libs\commons-net-3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f76ff64f941e71395a0e07cad82ee44310eea842">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-net-3.2_684ea20cfc9df62ef0566c343384b6190ae45202\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicMallCE21\app\libs\ini4j-0.5.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a3ee4146a90c619b20977d65951825f5675b560">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\2\ini4j-0.5.4_b65a8d8e8c58256258cc3a762578b75b5dc5d301\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicMallCE21\app\libs\jackson-core-asl-1.9.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c304d70f42f832e0a86d45bd437f692129299a4">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-asl-1.9.13_fd62c7b2a1a56da44bf1c220d855b3386f054faf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicMallCE21\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\MusicMallCE21\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ccfd9fea95929589011efefed1cfd98ed8ddf2ff\classes.dex" />
+    </item>
+
+</items>
